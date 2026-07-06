@@ -8,7 +8,7 @@
     "authors": ["anhdaden"],
     "languages": ["vi"],
     "categories": ["Movie", "TvSeries", "Anime"],
-    "url": "https://raw.githubusercontent.com/3r1pm4V/cs32skystr/main/dist/com.anhdaden.vn.nguonc.sky"
+    "url": "https://raw.githubusercontent.com/hifotos94/cs3vnskytr/main/dist/com.anhdaden.vn.nguonc.sky"
   },
   {
     "packageName": "com.anhdaden.vn.ophim",
@@ -19,7 +19,7 @@
     "authors": ["anhdaden"],
     "languages": ["vi"],
     "categories": ["Movie", "TvSeries", "Anime"],
-    "url": "https://raw.githubusercontent.com/3r1pm4V/cs32skystr/main/dist/com.anhdaden.vn.ophim.sky"
+    "url": "https://raw.githubusercontent.com/hifotos94/cs3vnskytr/main/dist/com.anhdaden.vn.ophim.sky"
   },
   {
     "packageName": "com.anhdaden.vn.kkphim",
@@ -30,7 +30,7 @@
     "authors": ["anhdaden"],
     "languages": ["vi"],
     "categories": ["Movie", "TvSeries", "Anime"],
-    "url": "https://raw.githubusercontent.com/3r1pm4V/cs32skystr/main/dist/com.anhdaden.vn.kkphim.sky"
+    "url": "https://raw.githubusercontent.com/hifotos94/cs3vnskytr/main/dist/com.anhdaden.vn.kkphim.sky"
   },
   {
     "packageName": "com.anhdaden.vn.bluphim",
@@ -41,7 +41,7 @@
     "authors": ["anhdaden"],
     "languages": ["vi"],
     "categories": ["Movie", "TvSeries"],
-    "url": "https://raw.githubusercontent.com/3r1pm4V/cs32skystr/main/dist/com.anhdaden.vn.bluphim.sky"
+    "url": "https://raw.githubusercontent.com/hifotos94/cs3vnskytr/main/dist/com.anhdaden.vn.bluphim.sky"
   },
   {
     "packageName": "com.anhdaden.vn.phimmoi",
@@ -52,7 +52,7 @@
     "authors": ["anhdaden"],
     "languages": ["vi"],
     "categories": ["Movie", "TvSeries"],
-    "url": "https://raw.githubusercontent.com/3r1pm4V/cs32skystr/main/dist/com.anhdaden.vn.phimmoi.sky"
+    "url": "https://raw.githubusercontent.com/hifotos94/cs3vnskytr/main/dist/com.anhdaden.vn.phimmoi.sky"
   },
   {
     "packageName": "com.anhdaden.vn.phimhdc",
@@ -63,7 +63,7 @@
     "authors": ["anhdaden"],
     "languages": ["vi"],
     "categories": ["Movie", "TvSeries"],
-    "url": "https://raw.githubusercontent.com/3r1pm4V/cs32skystr/main/dist/com.anhdaden.vn.phimhdc.sky"
+    "url": "https://raw.githubusercontent.com/hifotos94/cs3vnskytr/main/dist/com.anhdaden.vn.phimhdc.sky"
   },
   {
     "packageName": "com.anhdaden.vn.phimlongtieng",
@@ -74,7 +74,7 @@
     "authors": ["anhdaden"],
     "languages": ["vi"],
     "categories": ["Movie", "TvSeries"],
-    "url": "https://raw.githubusercontent.com/3r1pm4V/cs32skystr/main/dist/com.anhdaden.vn.phimlongtieng.sky"
+    "url": "https://raw.githubusercontent.com/hifotos94/cs3vnskytr/main/dist/com.anhdaden.vn.phimlongtieng.sky"
   },
   {
     "packageName": "com.anhdaden.vn.xem8z",
@@ -85,7 +85,7 @@
     "authors": ["anhdaden"],
     "languages": ["vi"],
     "categories": ["Movie", "TvSeries"],
-    "url": "https://raw.githubusercontent.com/3r1pm4V/cs32skystr/main/dist/com.anhdaden.vn.xem8z.sky"
+    "url": "https://raw.githubusercontent.com/hifotos94/cs3vnskytr/main/dist/com.anhdaden.vn.xem8z.sky"
   },
   {
     "packageName": "com.anhdaden.vn.holitv",
@@ -96,7 +96,7 @@
     "authors": ["anhdaden"],
     "languages": ["vi"],
     "categories": ["Movie", "TvSeries", "Anime"],
-    "url": "https://raw.githubusercontent.com/3r1pm4V/cs32skystr/main/dist/com.anhdaden.vn.holitv.sky"
+    "url": "https://raw.githubusercontent.com/hifotos94/cs3vnskytr/main/dist/com.anhdaden.vn.holitv.sky"
   },
   {
     "packageName": "com.anhdaden.vn.hhtq",
@@ -107,7 +107,7 @@
     "authors": ["anhdaden"],
     "languages": ["vi"],
     "categories": ["Anime"],
-    "url": "https://raw.githubusercontent.com/3r1pm4V/cs32skystr/main/dist/com.anhdaden.vn.hhtq.sky"
+    "url": "https://raw.githubusercontent.com/hifotos94/cs3vnskytr/main/dist/com.anhdaden.vn.hhtq.sky"
   },
   {
     "packageName": "com.anhdaden.vn.yanhh3d",
@@ -118,7 +118,7 @@
     "authors": ["anhdaden"],
     "languages": ["vi"],
     "categories": ["Anime"],
-    "url": "https://raw.githubusercontent.com/3r1pm4V/cs32skystr/main/dist/com.anhdaden.vn.yanhh3d.sky"
+    "url": "https://raw.githubusercontent.com/hifotos94/cs3vnskytr/main/dist/com.anhdaden.vn.yanhh3d.sky"
   },
   {
     "packageName": "com.anhdaden.vn.animehay",
@@ -129,7 +129,7 @@
     "authors": ["anhdaden"],
     "languages": ["vi"],
     "categories": ["Anime"],
-    "url": "https://raw.githubusercontent.com/3r1pm4V/cs32skystr/main/dist/com.anhdaden.vn.animehay.sky"
+    "url": "https://raw.githubusercontent.com/hifotos94/cs3vnskytr/main/dist/com.anhdaden.vn.animehay.sky"
   },
   {
     "packageName": "com.anhdaden.vn.animevietsub",
@@ -140,7 +140,7 @@
     "authors": ["anhdaden"],
     "languages": ["vi"],
     "categories": ["Anime"],
-    "url": "https://raw.githubusercontent.com/3r1pm4V/cs32skystr/main/dist/com.anhdaden.vn.animevietsub.sky"
+    "url": "https://raw.githubusercontent.com/hifotos94/cs3vnskytr/main/dist/com.anhdaden.vn.animevietsub.sky"
   },
   {
     "packageName": "com.anhdaden.vn.yumeianime",
@@ -151,6 +151,6 @@
     "authors": ["anhdaden"],
     "languages": ["vi"],
     "categories": ["Anime"],
-    "url": "https://raw.githubusercontent.com/3r1pm4V/cs32skystr/main/dist/com.anhdaden.vn.yumeianime.sky"
+    "url": "https://raw.githubusercontent.com/hifotos94/cs3vnskytr/main/dist/com.anhdaden.vn.yumeianime.sky"
   }
 ]
