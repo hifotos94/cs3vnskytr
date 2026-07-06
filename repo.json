@@ -1,0 +1,6 @@
+{
+  "name": "CS3VN SkyStream Repo",
+  "description": "Kho lưu trữ plugin SkyStream của tôi",
+  "manifestVersion": 1,
+  "pluginListsUrl": "https://raw.githubusercontent.com/hifotos94/cs3vnskytr/main/dist/plugins.json"
+}
